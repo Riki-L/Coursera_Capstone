@@ -1,2 +1,2 @@
 # Coursera_Capstone
-W1 assignment for Coursera_Capstone
+Assignment for Coursera_Capstone
